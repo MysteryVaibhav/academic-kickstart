@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "LTI, CMU"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Pittsburgh"
+  date_start = "2017-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Designed novel neural architectures for multimodal tasks like cross-modal retrieval and language grounding. Funded by Yahoo! InMind project
   """
-
+  
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Senior Software Engineer"
+  company = "Samsung Research Institute"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Bangalore"
+  date_start = "2014-07-31"
+  date_end = "2017-07-31"
+  description = """
+  Contributions: 
+  
+  * Created a Natural Language Understanding Engine for extracting events from user’s conversations
+  * Worked on the Context Engine which interleaves information across sentences in a conversation
+  * Designed and implemented the Database access layer for storing and querying context information
+  """
+  
+[[experience]]
+  title = "Research Intern"
+  company = "IBM Research"
+  company_url = ""
+  location = "New Delhi"
+  date_start = "2013-05-26"
+  date_end = "2013-07-26"
+  description = """Simplified the SAP system using the techniques of program refactoring and equivalence"""
+  
+[[experience]]
+  title = "Intern"
+  company = "ZipDial (acquired by Twitter)"
+  company_url = ""
+  location = "Bangalore"
+  date_start = "2012-05-26"
+  date_end = "2012-07-26"
+  description = """
+  Designed a spam filtering algorithm to identify unwanted caller ids from huge distributed databases
+  """
 
 +++

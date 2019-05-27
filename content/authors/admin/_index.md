@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Vaibhav
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Masters in Language Technologies
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carnegie Mellon University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research Assistant at Language Technologies Institute, CMU
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Natural Language Processing
+- Multimodal Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Language Technologies
+    institution: Carnegie Mellon University
+    year: 2019
+  - course: B.Tech in Computer Science
+    institution: Indian Institute of Technology, Kanpur
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +44,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mysteryvaibhav
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=mErqQ9UAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MysteryVaibhav
+- icon: facebook
+  icon_pack: fab
+  link: https://facebook.com/mysteryvaibhav
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mysteryvaibhav@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +70,13 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a second year Masters student at CMU. I am advised by Professor Alexander Hauptmann and Robert Frederking. I have a broad research interset spanning all three modalities, i.e. vision, languague and speech. My current research focus is on improving cross-modal retrieval and languague grounding. Additionally, I am trying to apply graph based neural networks to various NLP tasks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, I spent three years (2014-17) in the Advanced Research Lab at Samsung Research, Bangalore. I was working on an interesting problem of extracting event reminders from user conversations. I obtained my undergraduate degree in Computer Science from IIT Kanpur in 2014.
+
+In my leisure time, I enjoy the following things:
+
+- Travel and [read](https://www.goodreads.com/user/show/51338119-vaibhav) 
+- Decipher magic tricks
+- Play crazyhouse or bughouse (send me your challenge at [chess.com](https://www.chess.com/member/mysteryvaibhav))
+
