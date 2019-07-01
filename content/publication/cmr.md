@@ -11,7 +11,7 @@ date: 2019-03-10T20:26:25-04:00
 lastmod: 
 featured: false
 draft: false
-url_pdf: ""
+url_pdf: "https://dl.acm.org/citation.cfm?id=3325043"
 url_code: ""
 abstract: "Although significant progress has been made for cross-modal retrieval models in recent years, few have explored what those models truly learn and what makes one model superior to another. Start by training two state-of-the-art text-to-image retrieval models with adversarial text inputs, we investigate and quantify the importance of syntactic structure and lexical information in learning the joint visual-semantic embedding space for cross-modal retrieval. The results show that the retrieval power mainly comes from localizing and connecting the visual objects and their cross-modal counter-parts, the textual phrases. Inspired by this observation, we propose a novel model which employs object-oriented encoders along with inter- and intra-modal attention networks to improve inter-modal dependencies for cross-modal retrieval. In addition, we develop a new multimodal structure-preserving objective which additionally emphasizes intra-modal hard negative examples to promote intra-modal discrepancies. Extensive experiments show that the proposed approach outperforms the existing best method by a large margin (16.4% and 6.7% relatively with Recall@1 in the text-to-image retrieval task on the Flickr30K dataset and the MS-COCO dataset respectively)"
 

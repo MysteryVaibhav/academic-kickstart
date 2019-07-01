@@ -11,7 +11,7 @@ date: 2019-04-10T20:26:25-04:00
 lastmod: 
 featured: false
 draft: false
-url_pdf: "https://arxiv.org/pdf/1902.09508.pdf"
+url_pdf: "https://www.aclweb.org/anthology/N19-1190"
 url_code: "https://github.com/MysteryVaibhav/robust_mtnt"
 abstract: "Modern Machine Translation (MT) systems perform consistently well on clean, in-domain text. However most human generated text, particularly in the realm of social media, is full of typos, slang, dialect, idiolect and other noise which can have a disastrous impact on the accuracy of output translation. In this paper we leverage the Machine Translation of Noisy Text (MTNT) dataset to enhance the robustness of MT systems by emulating naturally occurring noise in otherwise clean data. Synthesizing noise in this manner we are ultimately able to make a vanilla MT system resilient to naturally occurring noise and partially mitigate loss in accuracy resulting therefrom."
 
