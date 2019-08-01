@@ -4,7 +4,7 @@
 title: "Improving Robustness of Machine Translation with Synthetic Noise"
 subtitle: ""
 summary: "Short Paper at NAACL 2019"
-authors: [Vaibhav, S. Singh, C. Stewart, G. Neubig]
+authors: [Vaibhav*, S. Singh*, C. Stewart*, G. Neubig]
 tags: []
 categories: []
 date: 2019-04-10T20:26:25-04:00

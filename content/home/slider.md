@@ -184,46 +184,6 @@ overlay_img = "m14.jpeg"  # Image path relative to your `static/img/` folder.
 #overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-title = "Minneapolis, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "mp1.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Minneapolis, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "mp2.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Minneapolis, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "mp3.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Minneapolis, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "mp4.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
 title = "Los Angeles, USA"
 caption = "#777"
 #content = "I am right aligned :smile:"
@@ -250,57 +210,7 @@ caption = "#777"
 align = "right"
 
 overlay_color = "#555"  # An HTML color value.
-overlay_img = "la3.JPG"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Los Angeles, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "la4.JPG"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Los Angeles, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
 overlay_img = "la6.JPG"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Maryland, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "ml1.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Maryland, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "ml2.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Maryland, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "ml3.jpg"  # Image path relative to your `static/img/` folder.
 #overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]

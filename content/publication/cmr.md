@@ -3,7 +3,7 @@
 
 title: "Improving What Cross-Modal Retrieval Models Learn through Object-Oriented Inter- and Intra-Modal Attention Networks"
 subtitle: ""
-summary: "Long Paper at ICMR 2019"
+summary: "Long Paper at ICMR 2019 (nominated for best paper award)"
 authors: [Po-Yao Huang, Vaibhav, Xiaojun Chang, Alexander G. Hauptmann]
 tags: []
 categories: []

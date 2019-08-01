@@ -56,9 +56,9 @@ social:
   link: https://facebook.com/mysteryvaibhav
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mysteryvaibhav@gmail.com"
@@ -79,4 +79,6 @@ In my leisure time, I enjoy the following things:
 - Travel and [read](https://www.goodreads.com/user/show/51338119-vaibhav) 
 - Decipher magic tricks
 - Play crazyhouse or bughouse (send me your challenge at [chess.com](https://www.chess.com/member/mysteryvaibhav))
+- Play squash, volley ball, badminton or cricket
+- Write occasional [blogs](https://medium.com/@mysteryvaibhav)
 
