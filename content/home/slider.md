@@ -190,7 +190,7 @@ caption = "#777"
 align = "right"
 
 overlay_color = "#555"  # An HTML color value.
-overlay_img = "la1.jpg"  # Image path relative to your `static/img/` folder.
+overlay_img = "la3.JPG"  # Image path relative to your `static/img/` folder.
 #overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -200,17 +200,7 @@ caption = "#777"
 align = "right"
 
 overlay_color = "#555"  # An HTML color value.
-overlay_img = "la2.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Los Angeles, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "la6.JPG"  # Image path relative to your `static/img/` folder.
+overlay_img = "la4.JPG"  # Image path relative to your `static/img/` folder.
 #overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -240,16 +230,6 @@ caption = "#777"
 align = "right"
 
 overlay_color = "#555"  # An HTML color value.
-overlay_img = "nf3.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Niagara Falls, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
 overlay_img = "nf4.jpg"  # Image path relative to your `static/img/` folder.
 #overlay_filter = 0  # Darken the image. Value in range 0-1.
 
@@ -270,37 +250,7 @@ caption = "#777"
 align = "right"
 
 overlay_color = "#555"  # An HTML color value.
-overlay_img = "nf6.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Niagara Falls, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "nf7.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Niagara Falls, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
 overlay_img = "nf8.jpg"  # Image path relative to your `static/img/` folder.
-#overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-title = "Niagara Falls, USA"
-caption = "#777"
-#content = "I am right aligned :smile:"
-align = "right"
-
-overlay_color = "#555"  # An HTML color value.
-overlay_img = "nf9.jpg"  # Image path relative to your `static/img/` folder.
 #overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
